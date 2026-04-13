@@ -5,7 +5,7 @@ This notebook focuses on the data preprocessing steps. The goal is to clean and 
 
 ---
 
-## Carachteristics
+## Characteristics
 - **Dataset:** The dataset contains information about petrol stations, including their locations, fuel prices, and other relevant attributes.
 - **Objective:** The main objective of this project is to analyze the petrol station data and build predictive models to understand patterns and make informed decisions based on the data.
 - **Tools Used:** The preprocessing steps will involve using Python libraries such as Pandas for data manipulation, NumPy for numerical operations, and Scikit-learn for handling missing values and encoding categorical variables.
@@ -25,6 +25,7 @@ PyDataProject/
 ### **Machine Learning Models** 
 Once the data preprocessing is complete and the dataset is clean and ready for analysis,
 the next step will be to apply machine learning algorithms to build predictive models. This may include regression models to predict fuel prices or classification models to categorize petrol stations based on certain attributes.
+  
 ---
 
 ## Author & Credits
