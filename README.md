@@ -1,6 +1,6 @@
 # Fuel Price Analysis and Regression
 
-A Python notebook project exploring fuel prices at petrol stations in Spain, with a focused analysis of stations in Madrid.
+A Python notebook project exploring fuel prices at petrol stations in Spain, with a focused analysis of stations.
 
 The project combines data cleaning, exploratory data analysis and regression experiments to estimate diesel prices from petrol prices and station attributes. English and Spanish notebooks are included.
 
